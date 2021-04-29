@@ -2,7 +2,7 @@
 
 This repository contains a few simple scripts to get started with Cisco DNA Center API.
 
-You will need the requests[secure] python module.
+You will need the requests[secure] python module..
 
 ```buildoutcfg
 pip install requests[secure]
